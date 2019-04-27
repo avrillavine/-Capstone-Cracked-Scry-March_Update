@@ -1,0 +1,12 @@
+Audio
+
+https://freesound.org/people/LittleRobotSoundFactory/sounds/276099/
+276099__littlerobotsoundfactory__coins-single-52.wav
+renamed as coins-single.wav
+
+https://freesound.org/people/gloriagypsy/sounds/365768/
+365768__gloriagypsy__laugh-1.mp3
+renamed as laugh-1_altered.mp3 brutally sacrilaged by Audacity
+Model
+https://www.turbosquid.com/3d-models/dagger-3d-model-1293485
+Dagger
